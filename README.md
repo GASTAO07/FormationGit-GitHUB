@@ -1,4 +1,4 @@
-# formationGitHUB
+# formationGit/GitHUB
 ## Titre niveau 2
 +1
 +2
